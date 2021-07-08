@@ -19,5 +19,5 @@ This ring is 3D printed in stainless steel.
 ![Final Ring](https://github.com/ericbumbalough/sier-projects/blob/main/final%20ring.jpg)
 It was impractical to create the highly detailed pattern below manually in Autodesk Inventor, so I used their API from VBA. I wrote a code (embedded in the .ipt file) that created all of the triangles.
 ![Pattern](https://github.com/ericbumbalough/sier-projects/blob/main/Final%20Sierpinski%20Wrap.png)
-Then, in Inventor I mapped those triangles to the surface, but them out, and exported the file as a .stl for the 3D printing company.
+Then, in Inventor I mapped those triangles to the surface, cut them out, and exported the file as a .stl for the 3D printing company.
 ![STL Model](https://github.com/ericbumbalough/sier-projects/blob/main/ring%20solid%20mode.png)
