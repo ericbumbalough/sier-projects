@@ -8,7 +8,7 @@ This notebook cover is a piece of laser engraved cedar plywood.
 
 ![Final Book Cover](https://github.com/ericbumbalough/sier-projects/blob/main/finished%20cover.jpg)
 
-First, I wrote a [C++ code to generate an the base image using Cairo](https://github.com/ericbumbalough/sier-projects/blob/main/Entourage%20Book%20Cover.cpp). Different darknesses indidicate different depths.
+First, I wrote a [C++ code to generate the base image using Cairo](https://github.com/ericbumbalough/sier-projects/blob/main/Entourage%20Book%20Cover.cpp). Different darknesses indidicate different depths.
 
 ![Laser Engraving Image](https://github.com/ericbumbalough/sier-projects/blob/main/cover.png)
 
